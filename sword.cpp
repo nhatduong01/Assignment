@@ -2,6 +2,7 @@
 #include "defs.h"
 #define _definition_h_
 #endif
+//Nguyen LE nhat Duong
 bool shield = false;
 bool hair = false;
 bool spear = false;
