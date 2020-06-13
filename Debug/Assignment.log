@@ -1,0 +1,5 @@
+﻿  Assignment.cpp
+C:\Users\ADMIN\Desktop\Assignment\Assignment\sword.cpp(78,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\Assignment\Assignment\sword.cpp(108,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\Assignment\Assignment\sword.cpp(203): warning C4715: 'Mode2': not all control paths return a value
+  Assignment.vcxproj -> C:\Users\ADMIN\Desktop\Assignment\Debug\Assignment.exe
